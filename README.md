@@ -13,7 +13,7 @@ After run application on Android Emulator you will see :
 <img src="https://github.com/omise/omise-android-example/blob/master/OmiseApp/pic/First_page.png" width="180" height="300">     </br>
 
 ####Add Public Key Page.
-######- Add Key ans SAVE </br>
+######- Add Key and SAVE </br>
 <img src="https://github.com/omise/omise-android-example/blob/master/OmiseApp/pic/Add_key.png" width="180" height="300">     </br>
 
 *** After add key success application will back to First page again and fill in all informations than click submit button.
